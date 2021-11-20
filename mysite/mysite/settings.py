@@ -25,7 +25,7 @@ SECRET_KEY = '4%n_0x6f1&il&qcptj#4aeo-0*j$fu%vqi4-x*-_4u#*zl_eyf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','crevenue.com']
+ALLOWED_HOSTS = ['127.0.0.1','crevenue.herokuapp.com']
 
 # Application definition
 
